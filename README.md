@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Swapnil-Chatterjee
 - 👀 I’m interested in Learning New Technologies
 - 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on open sources 
 - 📫 How to reach me swap4559@gmail.com
 
 <!---
