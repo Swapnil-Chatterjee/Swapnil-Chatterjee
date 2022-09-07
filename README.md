@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swapnil-Chatterjee
 - 👀 I’m interested in Learning New Technologies
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently working in Security Domain
 - 📫 How to reach me swap4559@gmail.com
 
 <!---
