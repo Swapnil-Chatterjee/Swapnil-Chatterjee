@@ -55,17 +55,10 @@ An application to **search Splunk & Sentinel rules, IOCs, and TTPs** for detecti
 
 ---
 
-## 📈 GitHub Stats
-
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swapnil-Chatterjee&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: [Swapnil Chatterjee](www.linkedin.com/in/swapnil-chatterjee-b8b1911b5)  
-- Twitter: [@swapnilsec](https://twitter.com/swapnilsec)  
-- Email: swapnil.chatterjee@example.com  
+- Email: swap4559@google.com  
 
 ---
 
