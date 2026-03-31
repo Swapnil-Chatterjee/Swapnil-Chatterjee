@@ -58,7 +58,7 @@ An application to **search Splunk & Sentinel rules, IOCs, and TTPs** for detecti
 ## 📫 Connect with Me
 
 - LinkedIn: [Swapnil Chatterjee](https://www.linkedin.com/in/swapnil-chatterjee-b8b1911b5)  
-- Email: swap4559@google.com  
+- Email: swap4559@gmail.com.com  
 
 ---
 
